@@ -166,7 +166,7 @@ $content_2=substr($content,0,200) ;
                                 Phone:
                             </h5>
                             <p class="mbr-text align-left mbr-fonts-style display-7">
-                                +9779861168742</p>
+                                +97798613122</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
@@ -174,7 +174,7 @@ $content_2=substr($content,0,200) ;
                             <h5 class="align-left mbr-fonts-style m-0 display-5">
                                 E-mail:
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">apshara456@gmail.com</p>
+                            <p class="mbr-text align-left mbr-fonts-style display-7">sanim123@gmail.com</p>
                             <?php include'copyright.php';   ?>
                         </div>
                     </div>
